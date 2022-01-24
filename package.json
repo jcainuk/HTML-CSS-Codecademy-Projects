@@ -1,0 +1,24 @@
+{
+  "name": "html-css-codecademy-projects",
+  "version": "1.0.0",
+  "description": "These are HTML and CSS projects I have created on Codecademy, primarily under the Front-End Engineer Career Path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcainuk/HTML-CSS-Codecademy-Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcainuk/HTML-CSS-Codecademy-Projects/issues"
+  },
+  "homepage": "https://github.com/jcainuk/HTML-CSS-Codecademy-Projects#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
