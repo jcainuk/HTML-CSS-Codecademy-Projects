@@ -38,4 +38,4 @@ The objective of this repository is to document my progress while learning HTML 
 
 ## Status
 
-:heavy*check_mark: \_in progress*
+- in progress
