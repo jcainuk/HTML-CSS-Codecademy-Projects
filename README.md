@@ -16,11 +16,11 @@ These are HTML and CSS projects I have created on Codecademy, primarily under th
 
 The objective of this repository is to document my progress while learning HTML and CSS. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
-## Learn HTML
+## Web Development Fundamentals
 
 - [Example Website](https://)
 
-## Learn CSS
+## Bringing Your Site Online
 
 - [Example Website](https://)
 
@@ -29,10 +29,6 @@ The objective of this repository is to document my progress while learning HTML 
 - [Example Website](https://)
 
 ## Making a Website Responsive
-
-- [Example Website](https://)
-
-## CSS Transitions and Animation
 
 - [Example Website](https://)
 
