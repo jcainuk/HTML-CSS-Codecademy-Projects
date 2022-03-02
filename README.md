@@ -4,12 +4,10 @@ These are HTML and CSS projects I have created on Codecademy, primarily under th
 
 ## Table of Contents
 
-- [General Info](#general-info)
-- [Learn HTML](#learn-html)
-- [Learn CSS](#learn-css)
+- [Web Development Fundamentals](#Web-Development-Fundamentals)
+- [Bringing Your Site Online](#Bringing-Your-Site-Online)
 - [Improved Styling with CSS](#improved-styling-with-css)
 - [Making a Website Responsive](#making-a-website-responsive)
-- [CSS Transitions and Animation](#css-transitions-and-animation)
 - [Status](#status)
 
 ## General Info
