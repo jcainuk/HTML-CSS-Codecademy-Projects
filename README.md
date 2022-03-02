@@ -16,19 +16,32 @@ The objective of this repository is to document my progress while learning HTML 
 
 ## Web Development Fundamentals
 
-- [Example Website](https://)
+- [Number Guesser](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/)
+
+* Test
+* Test
+* Test
 
 ## Bringing Your Site Online
 
 - [Example Website](https://)
+- Test
+- Test
+- Test
 
 ## Improved Styling with CSS
 
 - [Example Website](https://)
+- Test
+- Test
+- Test
 
 ## Making a Website Responsive
 
 - [Example Website](https://)
+- Test
+- Test
+- Test
 
 ## Status
 
