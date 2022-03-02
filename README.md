@@ -18,8 +18,8 @@ The objective of this repository is to document my progress while learning HTML 
 
 - [Fashion Blog](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Fashion%20Blog/)
 - [Wine Festival Schedule](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule/)
+- [New York City Blog](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/New%20York%20City%20Blog/)
 
-* Test
 * Test
 * Test
 
