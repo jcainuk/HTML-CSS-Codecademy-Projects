@@ -23,9 +23,6 @@ The objective of this repository is to document my progress while learning HTML 
 - [Olivia Woodruff Portfolio](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Olivia%20Woodruff%20Portfolio/)
 - [Off-Platform Project: Dasmoto's Arts & Crafts](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Dasmoto/)
 
-* Test
-* Test
-
 ## Bringing Your Site Online
 
 - Test
