@@ -20,6 +20,7 @@ The objective of this repository is to document my progress while learning HTML 
 - [Wine Festival Schedule](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Wine%20Festival%20Schedule/)
 - [New York City Blog](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/New%20York%20City%20Blog/)
 - [Healthy Recipes](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Healthy%20Recipes/)
+- [Olivia Woodruff Portfolio](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Olivia%20Woodruff%20Portfolio/)
 
 * Test
 * Test
