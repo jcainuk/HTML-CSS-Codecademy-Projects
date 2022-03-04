@@ -26,8 +26,6 @@ The objective of this repository is to document my progress while learning HTML 
 ## Bringing Your Site Online
 
 - [Off-Platform Project: Excursion](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Excursion/)
-- Test
-- Test
 
 ## Improved Styling with CSS
 
