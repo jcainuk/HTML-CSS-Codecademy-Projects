@@ -17,6 +17,12 @@ a{
   font-size: 16px;
 }
 
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
 .footer{
   text-align: right;
 }
