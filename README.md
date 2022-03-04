@@ -29,7 +29,7 @@ The objective of this repository is to document my progress while learning HTML 
 
 ## Improved Styling with CSS
 
-- Test
+- [Paint Store](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Paint%20Store/)
 - Test
 - Test
 
