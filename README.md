@@ -31,7 +31,7 @@ The objective of this repository is to document my progress while learning HTML 
 
 - [Paint Store](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Paint%20Store/)
 - [Typography](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Typography/)
-- Test
+- [The Box Model: Davie's Burgers](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/The%20Box%20Model%3A%20Davie%27s%20Burgers/)
 
 ## Making a Website Responsive
 
