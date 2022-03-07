@@ -30,7 +30,7 @@ The objective of this repository is to document my progress while learning HTML 
 ## Improved Styling with CSS
 
 - [Paint Store](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Paint%20Store/)
-- Test
+- [Typography](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Typography/)
 - Test
 
 ## Making a Website Responsive
