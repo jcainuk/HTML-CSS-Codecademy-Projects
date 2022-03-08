@@ -5,6 +5,8 @@ html, body {
 
 header {
   background-color: #333333;
+  position: fixed;
+  width: 100%;
 }
 
 nav {
@@ -55,7 +57,7 @@ footer p {
 
 .jumbotron {
   height: 800px;
-  background-image: url("images/bg.jpeg");
+  background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
