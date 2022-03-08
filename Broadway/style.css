@@ -46,6 +46,8 @@ footer {
   background-color: #333;
   color: #fff;
   padding: 30px 0;
+  width: 100%;
+  
 }
 
 footer p {
@@ -101,6 +103,9 @@ footer p {
 .supporting .col {
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  display: inline-block;
+  width: 200px;
+  margin-top: 10px;
 }
 
 .supporting img {
