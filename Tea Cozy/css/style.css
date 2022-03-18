@@ -22,9 +22,12 @@ header{
 
 nav {
   display: inline-block;
+  position: absolute;
+  right: 0px;
   
 }
 nav li {
   display: inline-block;
   list-style-type: none;
+  text-decoration: underline;
 }
