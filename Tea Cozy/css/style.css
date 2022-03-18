@@ -30,4 +30,6 @@ nav li {
   display: inline-block;
   list-style-type: none;
   text-decoration: underline;
+  font-size: 1.5rem;
+  padding: .5rem;
 }
