@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica;
+  background-color: black;
+  color:seashell;
+  opacity: 0.9
+  
+}
+header{
+  height: 69px;
+  border-bottom: 1px solid seashell;
+}
+#logo{
+  height: 50px;
+  margin-left:10px;
+}
