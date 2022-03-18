@@ -37,7 +37,7 @@ The objective of this repository is to document my progress while learning HTML 
 ## Making a Website Responsive
 
 - [Tsunami Coffee](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Tsunami%20Coffee/)
-- Test
+- [Flexbox: To-Do App](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Flexbox%3A%20To-Do%20App/)
 - Test
 - Test
 
