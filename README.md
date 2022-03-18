@@ -38,8 +38,7 @@ The objective of this repository is to document my progress while learning HTML 
 
 - [Tsunami Coffee](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Tsunami%20Coffee/)
 - [Flexbox: To-Do App](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Flexbox%3A%20To-Do%20App/)
-- Test
-- Test
+- [Off-Platform Project: Tea Cozy](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Tea%20Cozy/)
 
 ## Status
 
