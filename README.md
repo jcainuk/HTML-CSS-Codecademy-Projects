@@ -36,7 +36,7 @@ The objective of this repository is to document my progress while learning HTML 
 
 ## Making a Website Responsive
 
-- [Example Website](https://)
+- [Tsunami Coffee](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Tsunami%20Coffee/)
 - Test
 - Test
 - Test
