@@ -1,8 +1,13 @@
+*{
+  border: 1px solid red;
+}
+
 body {
   font-family: Helvetica;
   background-color: black;
   color:seashell;
   opacity: 0.9
+  
   
 }
 header{
@@ -12,4 +17,14 @@ header{
 #logo{
   height: 50px;
   margin-left:10px;
+  
+}
+
+nav {
+  display: inline-block;
+  
+}
+nav li {
+  display: inline-block;
+  list-style-type: none;
 }
