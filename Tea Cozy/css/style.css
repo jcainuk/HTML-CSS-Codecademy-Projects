@@ -37,6 +37,10 @@ margin: 0;
 }
 
 .navigation a li {
-
+  display: table-cell;
+  vertical-align: middle;
+  height: 100%;
+  text-decoration: underline;
+  color: white;
 }
 
