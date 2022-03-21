@@ -55,3 +55,9 @@ margin: 0;
   display: flex;
 }
 
+.text-over {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
+
