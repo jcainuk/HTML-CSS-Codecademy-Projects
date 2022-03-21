@@ -30,7 +30,10 @@ margin: 0;
 }
 
 .navigation a{
-
+  height: 100%;
+  display: table;
+  float: left;
+  padding: 0px 20px;
 }
 
 .navigation a li {
