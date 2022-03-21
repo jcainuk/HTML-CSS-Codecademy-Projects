@@ -1,35 +1,30 @@
-*{
-  border: 1px solid red;
-}
-
 body {
-  font-family: Helvetica;
-  background-color: black;
-  color:seashell;
-  opacity: 0.9
-  
-  
+font-family: Helvetica;
+font-size: 22px;
+color: seashell;
+background-color: black;
+opacity: 0.9;
+text-align: center;
+margin: 0;
 }
-header{
-  height: 69px;
-  border-bottom: 1px solid seashell;
+
+.header {
+
 }
-#logo{
-  height: 50px;
-  margin-left:10px;
+
+.logo {
+
+}
+
+.navigation{
+
+}
+
+.navigation a{
+
+}
+
+.navigation a li {
   
 }
 
-nav {
-  display: inline-block;
-  position: absolute;
-  right: 0px;
-  
-}
-nav li {
-  display: inline-block;
-  list-style-type: none;
-  text-decoration: underline;
-  font-size: 1.5rem;
-  padding: .5rem;
-}
