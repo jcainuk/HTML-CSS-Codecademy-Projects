@@ -93,3 +93,8 @@ margin: 0;
   background-position: center;
   background-size: cover;
 }
+
+.text-top{
+  font-size: 43px;
+  font-weight: bold;
+}
