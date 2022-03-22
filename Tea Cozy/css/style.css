@@ -103,8 +103,10 @@ margin: 0;
 .box-container {
  max-width: 1050px;
  margin: 15px auto auto auto;
- display: flex;
+ display: inline-flex;
  justify-content: space-between;
+
+
 }
 
 .box {
