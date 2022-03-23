@@ -117,3 +117,36 @@ footer {
   grid-column-end: -1;
   display: grid;
 }
+
+/* mobile devices */
+
+@media only screen and (max-width: 480px){
+
+  .grid {
+    display: grid;
+    grid-template: repeat(7, 1fr) / 1fr);
+   }
+
+  .address {
+    grid-column: 1 / span 6;
+   }
+   
+   .hours {
+    grid-column: 1 / span 6;
+   }
+   
+   .call-us {
+   grid-column: 1/ span 6;
+  
+   }
+
+   .one {
+    grid-column: 1/ span 6;
+    }
+    
+    .two {
+      grid-column: 1/ span 6;
+    
+    }
+
+}
