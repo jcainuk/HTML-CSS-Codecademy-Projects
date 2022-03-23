@@ -12,6 +12,7 @@ body {
 header {
 grid-column-start: 1;
 grid-column-end: -1;
+display: grid;
 }
 
 .title {
@@ -48,6 +49,7 @@ img {
   background-color: #f0f0f0;
 grid-column-start: 1;
 grid-column-end: -1;
+display: grid;
 }
 
 .text {
@@ -66,7 +68,7 @@ grid-column-end: -1;
   font-weight: 500;
   letter-spacing: 0.5px;
   text-align: center;
-
+  display: grid;
 }
 
 .address {
@@ -93,7 +95,7 @@ grid-column: 5/ span 2;
   font-size: 18px;
   font-style: italic;
   letter-spacing: 3.7px;
-
+  display: grid;
 }
 
 .one {
@@ -113,4 +115,5 @@ footer {
   letter-spacing: 0.4px;
   grid-column-start: 1;
   grid-column-end: -1;
+  display: grid;
 }
