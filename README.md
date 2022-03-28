@@ -41,6 +41,7 @@ The objective of this repository is to document my progress while learning HTML 
 - [Off-Platform Project: Tea Cozy](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Tea%20Cozy/)
 - [Off-Platform Project: Fotomatic](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/Fotomatic/)
 - [PupSpa](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/PupSpa/)
+- [CSS Grid: Task Board](https://jcainuk.github.io/HTML-CSS-Codecademy-Projects/CSS%20Grid%3A%20Task%20Board/)
 
 ## Status
 
